@@ -1,2 +1,7 @@
-### `Oracle Cloud Infrastructure Foundations Notes by ME`
+
+
+- Notes : Oracle Cloud Infrastructure
+- Maintainer : Any one can contribute
+
+Thanks :)
 
